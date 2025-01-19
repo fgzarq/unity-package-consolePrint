@@ -1,0 +1,13 @@
+{
+    "name":"com.fgzarq.unity-package-consolePrint",
+    "version": "1.0.0",
+    "displayName": "fgzarq Console Print",
+    "description": "Basic tools for console printing.",
+    "unity": "6000.0.32f1",
+    "author": 
+    {
+        "name": "fgzarq",
+        "email": "fgzarq@gmail.com",
+        "url": ""
+    }
+}
