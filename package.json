@@ -12,21 +12,21 @@
     },
 
     "dependencies":
-		{
-			"com.unity.mathematics": "1.3.2"
-		},
+	{
+		"com.unity.mathematics": "1.3.2"
+	},
     
     "samples":
-		[
-			{
-				"displayName":"Basic",
-				"description":"Escena que muestra el funcionamiento básico.",
-				"path":"Samples/Basic"
-			},
-			{
-				"displayName":"Advanced",
-				"description":"Escena que muestra el funcionamiento avanzado.",
-				"path":"Samples/Advanced"
-			}
-		]
+	[
+		{
+			"displayName":"Basic",
+			"description":"Escena que muestra el funcionamiento básico.",
+			"path":"Samples/Basic"
+		},
+		{
+			"displayName":"Advanced",
+			"description":"Escena que muestra el funcionamiento avanzado.",
+			"path":"Samples/Advanced"
+		}
+	]
 }
